@@ -1,0 +1,10 @@
+E:\Coding\WindowsFormsApp2 - bang thong tin remake\WindowsFormsApp2 - bang thong tin remake\bin\Debug\WindowsFormsApp2 - bang thong tin remake.exe.config
+E:\Coding\WindowsFormsApp2 - bang thong tin remake\WindowsFormsApp2 - bang thong tin remake\bin\Debug\WindowsFormsApp2 - bang thong tin remake.exe
+E:\Coding\WindowsFormsApp2 - bang thong tin remake\WindowsFormsApp2 - bang thong tin remake\bin\Debug\WindowsFormsApp2 - bang thong tin remake.pdb
+E:\Coding\WindowsFormsApp2 - bang thong tin remake\WindowsFormsApp2 - bang thong tin remake\obj\Debug\WindowsFormsApp2 - bang thong tin remake.csprojAssemblyReference.cache
+E:\Coding\WindowsFormsApp2 - bang thong tin remake\WindowsFormsApp2 - bang thong tin remake\obj\Debug\WindowsFormsApp2___bang_thong_tin_remake.Form1.resources
+E:\Coding\WindowsFormsApp2 - bang thong tin remake\WindowsFormsApp2 - bang thong tin remake\obj\Debug\WindowsFormsApp2___bang_thong_tin_remake.Properties.Resources.resources
+E:\Coding\WindowsFormsApp2 - bang thong tin remake\WindowsFormsApp2 - bang thong tin remake\obj\Debug\WindowsFormsApp2 - bang thong tin remake.csproj.GenerateResource.cache
+E:\Coding\WindowsFormsApp2 - bang thong tin remake\WindowsFormsApp2 - bang thong tin remake\obj\Debug\WindowsFormsApp2 - bang thong tin remake.csproj.CoreCompileInputs.cache
+E:\Coding\WindowsFormsApp2 - bang thong tin remake\WindowsFormsApp2 - bang thong tin remake\obj\Debug\WindowsFormsApp2 - bang thong tin remake.exe
+E:\Coding\WindowsFormsApp2 - bang thong tin remake\WindowsFormsApp2 - bang thong tin remake\obj\Debug\WindowsFormsApp2 - bang thong tin remake.pdb
